@@ -10,6 +10,6 @@ class Solution {
             }
             numbers.put(nums[i], i);
         }
-        throw new IllegalArgumentException("no match found!");
+        throw new IllegalArgumentException("No matches!");
     }
 }
