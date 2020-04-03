@@ -6,6 +6,7 @@
 |  #  |                     Title                       |        Solution          |        Difficulty       |                    
 |-----|-------------------------------------------------|--------------------------|-------------------------|
 |  1     | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/wetHands04/algorithms/blob/master/LeetCode/TwoSum/TwoSum.java) |             Easy        |
+|  53    | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/wetHands04/algorithms/blob/master/LeetCode/MaximumSubarray/MaximumSubarray.java) | Easy  |
 |  136   | [Single Number](https://leetcode.com/problems/single-number/) | [Solution](https://github.com/wetHands04/algorithms/blob/master/LeetCode/SingleNumber/SingleNumber.java) | Easy        |
 |  202   | [Happy Number](https://leetcode.com/problems/happy-number/) | [Solution](https://github.com/wetHands04/algorithms/blob/master/LeetCode/HappyNumber/HappyNumber.java) |   Easy        |
 |  1390  | [Four Divisors](https://leetcode.com/problems/four-divisors/) | [Solution](https://github.com/wetHands04/algorithms/blob/master/LeetCode/FourDivisors/FourDivisors.java) | Medium      |
