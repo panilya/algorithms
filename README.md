@@ -9,6 +9,7 @@
 |  53    | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/wetHands04/algorithms/blob/master/LeetCode/MaximumSubarray/MaximumSubarray.java) | Easy  |
 |  136   | [Single Number](https://leetcode.com/problems/single-number/) | [Solution](https://github.com/wetHands04/algorithms/blob/master/LeetCode/SingleNumber/SingleNumber.java) | Easy        |
 |  202   | [Happy Number](https://leetcode.com/problems/happy-number/) | [Solution](https://github.com/wetHands04/algorithms/blob/master/LeetCode/HappyNumber/HappyNumber.java) |   Easy        |
+|  283   | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Solution](https://github.com/wetHands04/algorithms/blob/master/LeetCode/MoveZeroes/MoveZeroes.java) | Easy            |
 |  1390  | [Four Divisors](https://leetcode.com/problems/four-divisors/) | [Solution](https://github.com/wetHands04/algorithms/blob/master/LeetCode/FourDivisors/FourDivisors.java) | Medium      |
 
 
