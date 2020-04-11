@@ -10,6 +10,7 @@
 |  136   | [Single Number](https://leetcode.com/problems/single-number/) | [Solution](https://github.com/wetHands04/algorithms/blob/master/LeetCode/SingleNumber/SingleNumber.java) | Easy        |
 |  202   | [Happy Number](https://leetcode.com/problems/happy-number/) | [Solution](https://github.com/wetHands04/algorithms/blob/master/LeetCode/HappyNumber/HappyNumber.java) |   Easy        |
 |  283   | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Solution](https://github.com/wetHands04/algorithms/blob/master/LeetCode/MoveZeroes/MoveZeroes.java) | Easy            |
+|  876   | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](https://github.com/wetHands04/algorithms/blob/master/LeetCode/MiddleOfTheLinkedList/MiddleOfTheLinkedList.java) | Easy |
 |  1390  | [Four Divisors](https://leetcode.com/problems/four-divisors/) | [Solution](https://github.com/wetHands04/algorithms/blob/master/LeetCode/FourDivisors/FourDivisors.java) | Medium      |
 
 
